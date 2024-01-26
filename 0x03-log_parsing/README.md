@@ -1,12 +1,6 @@
 # Project Name
 **0x03. Log Parsing**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
 
 ##  Requirements
 
@@ -92,6 +86,3 @@ Tel: *+254707240068.*
     ```
 ---
 
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
